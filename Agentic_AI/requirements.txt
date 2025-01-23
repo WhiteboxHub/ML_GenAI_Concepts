@@ -1,0 +1,8 @@
+requests
+BeautifulSoup4
+langchain_text_splitters
+langchain
+sentence_transformers
+faiss
+langchain_community
+langchain_core
